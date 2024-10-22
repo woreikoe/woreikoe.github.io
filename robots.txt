@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://woreikoe.github.io/woreikoe.txt.gz
+Sitemap: https://woreikoe.github.io/app/woreikoe.txt.gz
+Sitemap: https://woreikoe.github.io/assets/woreikoe.txt.gz
+Sitemap: https://woreikoe.github.io/css/woreikoe.txt.gz
+Sitemap: https://woreikoe.github.io/includes/woreikoe.txt.gz
+Sitemap: https://woreikoe.github.io/item/woreikoe.txt.gz
+Sitemap: https://woreikoe.github.io/src/woreikoe.txt.gz
